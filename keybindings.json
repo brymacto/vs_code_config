@@ -1,0 +1,20 @@
+// Place your key bindings in this file to overwrite the defaults
+[
+    {
+        "key": "cmd+d",           "command": "editor.action.deleteLines",
+        "when": "textInputFocus && !editorReadonly"
+    },
+    {
+        "key": "alt+cmd+l",
+        "command": "editor.action.reindentselectedlines"
+    },
+    {
+        "key": "shift+cmd+k",
+        "command": "-editor.action.deleteLines",
+        "when": "textInputFocus && !editorReadonly"
+    },
+    {
+        "key": "alt+cmd+l",
+        "command": "editor.action.reindentlines"
+    },
+]

@@ -1,0 +1,9 @@
+{
+    "workbench.colorTheme": "Monokai",
+    "workbench.iconTheme": "vs-minimal",
+    "files.autoSave": "onWindowChange",
+    "editor.tabSize": 2,
+    "files.autoGuessEncoding": true,
+    "files.insertFinalNewline": true,
+    "files.trimTrailingWhitespace": true,
+}
